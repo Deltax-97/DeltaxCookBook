@@ -7,6 +7,4 @@ public class Ingredient
     public MeasuringUnit MeasuringUnit { get; set; }
 
     public int Quantity { get; set; }
-
-
 }
